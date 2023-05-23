@@ -3,7 +3,6 @@
 
 - 🔭 Disponivel para Trabalho
 - 🌱 Estudando Eng. de Software / Data Science   
-- 😄 Pronouns: ele/dele
 - ⚡ Fazendo a transição de carreira para o mundo Dev!!
 
 <div align="center">
