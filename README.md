@@ -3,7 +3,7 @@
 
 - 🔭 Disponivel para Trabalho
 - 🌱 Estudando Eng. de Software / Data Science   
-- ⚡ Fazendo a transição de carreira para o mundo Dev!!
+-⚡  Fazendo a transição de  carreira  para o mundo DEV
 
 <div align="center">
   <a href="https://github.com/Carlos-Okada">
