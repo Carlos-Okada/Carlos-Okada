@@ -1,9 +1,9 @@
 ## Olá! Eu sou Carlos Eduardo 
 
 <ul>
-  - 🔭 Disponivel para Trabalho
-  - 🌱 Estudando Eng. de Software / Data Science   
-  -⚡  Fazendo a transição de  carreira  para o mundo DEV    
+  <li>- 🔭 Disponivel para Trabalho</li>
+  <li>- 🌱 Estudando Eng. de Software / Data Science</li>   
+  <li>-⚡  Fazendo a transição de  carreira  para o mundo DEV</li>    
 </ul>
 <div align="center">
   <a href="https://github.com/Carlos-Okada">
