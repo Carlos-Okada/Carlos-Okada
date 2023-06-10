@@ -13,6 +13,6 @@
 Connect with me
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/carlos-eduardo-preiori-okada-3644b7128/">
+<a href="https://www.linkedin.com/in/carlos-eduardo-preiori-okada-3644b7128/" target="blank">
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />
 </a>
